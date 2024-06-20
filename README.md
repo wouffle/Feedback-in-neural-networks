@@ -13,3 +13,9 @@ Python 3.6+
 TensorFlow 2.x
 
 NumPy
+Read my article on this by this link - 
+[Read the article](https://example.com/article)
+
+git add README.md
+git commit -m "Added link to article"
+git push origin main
